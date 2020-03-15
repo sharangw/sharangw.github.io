@@ -1,4 +1,3 @@
-# sharangw.github.io
-My Website
+# My Website
 
-Visit the site at sharangw.github.io
+[Visit the site here](https://sharangw.github.io/)
