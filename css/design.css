@@ -30,7 +30,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1.0em;
 }
 
 ul.posts { 
@@ -44,7 +44,7 @@ ul.posts li {
 
 /* Style all font awesome icons */
 .fa {
-  padding: 10px;
+  padding: 8px;
   font-size: 20px;
   width: 20px;
   text-align: center;
@@ -65,6 +65,7 @@ ul.posts li {
   background: #007bb5;
   color: white;
 }
+
 .fa-twitter {
   background: #55ACEE;
   color: white;
