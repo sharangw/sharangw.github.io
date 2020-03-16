@@ -1,3 +1,3 @@
 # My Website
 
-[Visit the site here](https://sharangw.github.io/)
+[Visit the site here](https://sharangwakankar.me)
