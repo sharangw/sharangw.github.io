@@ -12,7 +12,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-.header, .footer, .header h3 {
+.header, .header h3 {
     font-family: 'Montserrat', Helvetica, sans-serif;
     text-transform: uppercase;
     font-weight: normal;
@@ -20,12 +20,12 @@ nav ul li, footer ul li {
 .pull-right {
   float: right !important;
 }
-.text-muted {
+h3.text-muted a{
   color: #999999;
 }
 a {
     text-decoration: none;
-    color: #007bb5;
+    
 }
 a:hover {
     text-decoration: underline;
@@ -57,7 +57,7 @@ ul.posts li {
 .fa {
   padding: 8px;
   font-size: 20px;
-  width: 20px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
 }
