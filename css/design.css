@@ -20,16 +20,23 @@ nav ul li, footer ul li {
 .pull-right {
   float: right !important;
 }
-h3.text-muted a{
+h3.text-muted a {
   color: #999999;
 }
-a {
-    text-decoration: none;
-    
+h3.text-muted a:hover {
+  color: #428bca;
 }
-a:hover {
+
+.headerlink:hover {
+  text-decoration: none;
+}
+
+.link:hover {
     text-decoration: underline;
 }
+/*a:hover {
+    text-decoration: underline;
+}*/
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
