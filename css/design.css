@@ -12,6 +12,17 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+.header, .footer, .header h3 {
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.pull-right {
+  float: right !important;
+}
+.text-muted {
+  color: #999999;
+}
 a {
     text-decoration: none;
     color: #007bb5;
